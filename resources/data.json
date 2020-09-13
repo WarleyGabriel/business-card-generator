@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Xuxa da Silva",
+    "profession": "Presenter",
+    "email": "xuxadasilva@dude.com",
+    "phone": "+447795001178",
+    "website": "xuxa.com",
+    "location": "São Paulo, SP"
+  },
+  {
+    "name": "Chapolim",
+    "profession": "Hero",
+    "email": "chapolim@dude.com",
+    "phone": "+447123101178",
+    "website": "champolim.com",
+    "location": "Florianópolis, SC"
+  }
+]
